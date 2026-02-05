@@ -1,5 +1,4 @@
 ### needs_goals_assessment_disambiguation
-- github.com/lineality/needs_goals_assessment_disambiguation
 
 # User Needs and Goals Assessments: Disambiguation
 
@@ -29,5 +28,14 @@ and shut down, in terms of tools and workflow.)
 A ~user / customer can and should describe their situation, but they very often do not understand all details involved in making, using, and maintaining a solution. (In the case of software, if a user had complete mastery of the software domain for what they needed, they might write that software themselves.) The user often needs education and guidance to be able to adequately understand their options and which options are better for them in the long term. This education takes some time and iteration. 
 
 
-### *
+## Also See
+- For more details and frameworks for defining projects see: https://github.com/lineality/definition_behavior_studies 
+
+- For an outline of factors and processing for coordinating decisions see:
+https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads 
+
+
+#### *
 Customer, User, Stakeholder, etc. The people or group whose needs are to be met by a solution / feature / product / service / build / etc. This applies to Non-IT and to IT / Tech / Software projects. 
+
+
