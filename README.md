@@ -7,17 +7,17 @@ Over years of doing needs-&-goals-assessments and product-design I observed a pa
 But people (users / customers in this case) invariably interpret this seemingly single question in multiple ways: often about five to seven ways (these may be lumped together or further split, case by case). If you find out the separate questions to each of these different questions you can better track and navigate what the user is referring to. The default situation is that each time a person is asked 'What do you need?' they (often unconsciously) will alternately pick a different context for the question, resulting in what appear to be constantly changing answers to the same 'single' question. In my experience, asking each question separately consistently resulted in answers that stopped changing over time and in a user/stakeholder who was more confident in their descriptions.
 
 # Different Contexts for 'Need'
-1. What do you do and use now? (Current workflow)
-2. What do you need right now? (Right Now)
-3. What will you need in the medium-term (foreseeable) future? (Nearterm)
-4. What do you think that you can/will be able to do? (Ability)
+1. What do you *do* and use *now*? (Current workflow)
+2. What do you *need* right *now*? (Right Now)
+3. What will you *need* in the medium-term (foreseeable) future? (Nearterm)
+4. What do you think that you can/will be *able to* do? (Ability)
 (Very often people think the possible is impossible 
 and shut down, in terms of their own ability.)
-5. What do you think can be delivered to help you? (Feasibility)
+5. What do you think is *possible* to do? / What do you think can be delivered to help you? (Feasibility)
 (Very often people think the possible is impossible 
 and shut down, in terms of tools and workflow.)
-6. What do you plan and expect to do in the future? (Expectation)
-7. What do you ideally hope to do in the future? (Dream)
+6. What do you plan and *expect* to do in the future? (Expectation)
+7. What do you ideally *hope* to do in the future? (Dream)
 
 
 ## Other Factors and considerations
