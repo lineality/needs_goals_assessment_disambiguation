@@ -21,13 +21,13 @@ and shut down, in terms of tools and workflow.)
 
 ## Needs and Goals Disambiguation Table:
 
- |                  | **Ability** | **Anziety** | **Feasibile** | **Ideal/Dream** | **Required** | **Expected** |
- |------------------|-------------|-------------|---------------|-----------------|--------------|--------------|
- | Past             |             |             |               |                 |              |              |
- | Now/Present      |             |             |               |                 |              |              |
- | Near-Term Future |             |             |               |                 |              |              |
- | Mid-Term Future  |             |             |               |                 |              |              |
- | Long-Term Future |             |             |               |                 |              |              |
+ |                  | **Ability** | **Anziety** | **Feasibility** | **Ideal/Dream** | **Required** | **Expected** |
+ |------------------|-------------|-------------|-----------------|-----------------|--------------|--------------|
+ | Past             |             |             |                 |                 |              |              |
+ | Now/Present      |             |             |                 |                 |              |              |
+ | Near-Term Future |             |             |                 |                 |              |              |
+ | Mid-Term Future  |             |             |                 |                 |              |              |
+ | Long-Term Future |             |             |                 |                 |              |              |
 
 
 (This basic table can be modified case by case for various items such as stretch-goals, anziety areas, etc.)
