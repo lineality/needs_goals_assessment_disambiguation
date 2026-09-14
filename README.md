@@ -7,28 +7,18 @@ Over years of doing Needs-&-oals-Assessments and Product-Design and developemnt 
 #### Puzzles and Patterns
 People (users / customers / stakeholders) invariably interpret open-ended questions about ~need in multiple ways. Over time people's interpretations of 'need' (even for what looks like the same question) will shift around between different contexts. If you do not know what context they are answering about (especially if you are expecting one single time-stable context), then there will be predictable noise and misinterpretation in these communications and signals.
 
+For example, a common default situation is that each time a person is asked 'What do you need?' they will alternately pick a different context for the question, resulting in what appears to be a constantly changing answers to the 'same' question (whereas from the point of view of the person answering, the question is ambigious and the situation around being asked (what happened that day, aspects of what they are working on, what people have been talking about) highlight different interpretations of the question). 
+
 The most common areas (for separate interpretation-contexts regarding 'need') can be either listed or represented as a table. One way of framing the puzzle is to try to identify where in the table, or where in the list, is the intended context and meaning of the person's answer.
 
-For example, a common default situation is that each time a person is asked 'What do you need?' they will alternately pick a different context for the question, resulting in what appears to be a constantly changing answers to the 'same' question (whereas from the point of view of the person answering, the question is ambigious and the situation around being asked (what happened that day, aspects of what they are working on, what people have been talking about) highlights different interpretations of the question). 
-
-Consistent with this, in my experience, asking each question separately consistently results in answers that stopped changing over time and in a user/stakeholder who is more confident in their descriptions (and in their understanding of what exactly they are being asked).
 If you find out the separate questions to each of these different questions you can better track and navigate what the user is referring to. 
 
+#### Exaustive Search
+It takes more time to ask a set of questions than to ask one question, and it takes more time to follow-up and re-ask once a week for a few iterations, but the quality of data resulting from a more extensive 'search' is significantly higher.
 
-# Different Contexts for 'Need'
-1. What do you *do* and use *now*? (Current workflow)
-2. What do you *need* right *now*? (Right Now)
-3. What will you *need* in the medium-term (foreseeable) future? (Nearterm)
-4. What do you think that you can/will be *able to* do? (Ability)
-(Very often people think the possible is impossible 
-and shut down, in terms of their own ability.)
-5. What do you think is *possible* to do? / What do you think can be delivered to help you? (Feasibility)
-(Very often people think the possible is impossible 
-and shut down, in terms of tools and workflow.)
-6. What do you plan and *expect* to do in the future? (Expectation)
-7. What do you ideally *hope* to do in the future? (Dream)
+In my experience, asking each question separately (filling in the table or going down the list) results in answers that stop changing over time, and in a user/stakeholder who is more confident in their descriptions (and in their understanding of what exactly they are being asked).
 
-## Needs and Goals Disambiguation Table:
+# Needs and Goals Disambiguation Table:
 
  |                  | **Ability** | **Anziety** | **Feasibility** | **Ideal/Dream** | **Required** | **Expected** |
  |------------------|-------------|-------------|-----------------|-----------------|--------------|--------------|
@@ -40,6 +30,19 @@ and shut down, in terms of tools and workflow.)
 
 
 (This basic table can be modified case by case for various items such as stretch-goals, etc.)
+
+# List: Different Contexts for 'Need'
+1. What do you *do* and use *now*? (Current workflow)
+2. What do you *need* right *now*? (Right Now)
+3. What will you *need* in the medium-term (foreseeable) future? (Nearterm)
+4. What do you think that you can/will be *able to* do? (Ability)
+(Very often people think the possible is impossible 
+and shut down, in terms of their own ability.)
+5. What do you think is *possible* to do? / What do you think can be delivered to help you? (Feasibility)
+(Very often people think the possible is impossible 
+and shut down, in terms of tools and workflow.)
+6. What do you plan and *expect* to do in the future? (Expectation)
+7. What do you ideally *hope* to do in the future? (Dream)
 
 ## Other Factors and considerations
 1. Do not rush: Be patient and expect that communication and articulation is a process that takes time and iterations. If you rush, your data will be noisy (usually problematically noisy). If you assumed that a solid Needs & Goals Analysis was done, but you see that the user / customer / stakeholder seems to be changing their mind about what they want, double check that a Needs & Goals Analysis was done and how. If there was no sufficient Needs & Goals Analysis, and neither you nor the user knows what the goal is or should be, that is a problem that in most cases prevents the (unknown) goal from being met. 
