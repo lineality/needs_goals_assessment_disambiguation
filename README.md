@@ -21,14 +21,6 @@ and shut down, in terms of tools and workflow.)
 
 ## Needs and Goals Disambiguation Table:
 
-Need Ability Expectation Feasibility Ideal/Dream
-x
-Past
-Now
-Near-Term Future
-Mid-Term Future
-Long-Term Future
-
  |                  | **Ability** | **Anziety** | **Feasibile** | **Ideal/Dream** | **Required** | **Expected** |
  |------------------|-------------|-------------|---------------|-----------------|--------------|--------------|
  | Past             |             |             |               |                 |              |              |
