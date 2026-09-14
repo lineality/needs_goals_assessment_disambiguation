@@ -2,7 +2,7 @@
 
 # User Needs and Goals Assessments: Disambiguation
 
-Over years of doing Needs-&-oals-Assessments and Product-Design and developemnt I observed a pattern in the apparent indeterminacy of a user's/customer's responses to what at first often seems like a single, simple, question: "What do you need?" By talking with people in more depth about their answers I was able to map out the problem-space of how they were interpreting the elusive question.
+Over years of doing Needs-&-oals-Assessments and Product-Design and developemnt I observed a pattern in the apparent indeterminacy of a *user's/customer's responses to what at first often seems like a single, simple, question: "What do you need?" By talking with people in more depth about their answers I was able to map out the problem-space of how they were interpreting the elusive question.
 
 #### Puzzles and Patterns
 People (users / customers / stakeholders) invariably interpret open-ended questions about ~need in multiple ways. Over time people's interpretations of 'need' (even for what looks like the same question) will shift around between different contexts. If you do not know what context they are answering about (especially if you are expecting one single time-stable context), then there will be predictable noise and misinterpretation in these communications and signals.
