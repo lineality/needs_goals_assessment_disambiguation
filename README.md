@@ -19,6 +19,26 @@ and shut down, in terms of tools and workflow.)
 6. What do you plan and *expect* to do in the future? (Expectation)
 7. What do you ideally *hope* to do in the future? (Dream)
 
+## Needs and Goals Disambiguation Table:
+
+Need Ability Expectation Feasibility Ideal/Dream
+x
+Past
+Now
+Near-Term Future
+Mid-Term Future
+Long-Term Future
+
+ |                  | **Ability** | **Anziety** | **Feasibile** | **Ideal/Dream** | **Required** | **Expected** |
+ |------------------|-------------|-------------|---------------|-----------------|--------------|--------------|
+ | Past             |             |             |               |                 |              |              |
+ | Now/Present      |             |             |               |                 |              |              |
+ | Near-Term Future |             |             |               |                 |              |              |
+ | Mid-Term Future  |             |             |               |                 |              |              |
+ | Long-Term Future |             |             |               |                 |              |              |
+
+
+(This basic table can be modified case by case for various items such as stretch-goals, anziety areas, etc.)
 
 ## Other Factors and considerations
 1. Do not rush: Be patient and expect that communication and articulation is a process that takes time and iterations. If you rush, your data will be noisy (usually problematically noisy). If you assumed that a solid Needs & Goals Analysis was done, but you see that the user / customer / stakeholder seems to be changing their mind about what they want, double check that a Needs & Goals Analysis was done and how. If there was no sufficient Needs & Goals Analysis, and neither you nor the user knows what the goal is or should be, that is a problem that in most cases prevents the (unknown) goal from being met. 
