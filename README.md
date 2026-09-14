@@ -2,14 +2,14 @@
 
 # User Needs and Goals Assessments: Disambiguation
 
-Over years of doing Needs-&-oals-Assessments and Product-Design and developemnt I observed a pattern in the apparent indeterminacy of a user's/customer's responses to what at first often seems like a single, simple, question: "What do you need?" By talking with people in more depth about their answers I was able to map out the problem-space of how they were interpreting an elusive question.
+Over years of doing Needs-&-oals-Assessments and Product-Design and developemnt I observed a pattern in the apparent indeterminacy of a user's/customer's responses to what at first often seems like a single, simple, question: "What do you need?" By talking with people in more depth about their answers I was able to map out the problem-space of how they were interpreting the elusive question.
 
 #### Puzzles and Patterns
-But people (users / customers / stakeholders) invariably interpret open-ended questions about ~need in multiple ways. Over time people's interpretations of 'need' (even for what looks like the same question) will shift around between different contexts. If you do not know what context they are interpreting and answering about (especially if you are expecting one single time-stable context), then there will be predictable noise and misinterpretation in these communications and signals.
+People (users / customers / stakeholders) invariably interpret open-ended questions about ~need in multiple ways. Over time people's interpretations of 'need' (even for what looks like the same question) will shift around between different contexts. If you do not know what context they are answering about (especially if you are expecting one single time-stable context), then there will be predictable noise and misinterpretation in these communications and signals.
 
-The most common areas for these separate interpretations-contexts regarding 'need' can be either listed or represented in a table. One way of framing the puzzle is to try to identify where in the table or list is the intended context and meaning of the person's answer.
+The most common areas (for separate interpretation-contexts regarding 'need') can be either listed or represented as a table. One way of framing the puzzle is to try to identify where in the table, or where in the list, is the intended context and meaning of the person's answer.
 
-For example, a common default situation is that each time a person is asked 'What do you need?' they will alternately pick a different context for the question, resulting in what appears to be a constantly changing answers to the 'same' question (whereas from the point of view of the person answering, the question is ambigious and the situation around being asked highlights different interpretations of the question). 
+For example, a common default situation is that each time a person is asked 'What do you need?' they will alternately pick a different context for the question, resulting in what appears to be a constantly changing answers to the 'same' question (whereas from the point of view of the person answering, the question is ambigious and the situation around being asked (what happened that day, aspects of what they are working on, what people have been talking about) highlights different interpretations of the question). 
 
 Consistent with this, in my experience, asking each question separately consistently results in answers that stopped changing over time and in a user/stakeholder who is more confident in their descriptions (and in their understanding of what exactly they are being asked).
 If you find out the separate questions to each of these different questions you can better track and navigate what the user is referring to. 
