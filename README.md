@@ -31,6 +31,9 @@ In my experience, asking each question separately (filling in the table or going
 
 (This basic table can be modified case by case for various items such as stretch-goals, etc.)
 
+## Dart-Board Analogy:
+While it may seem arduous to ask about each of these question-areas in the array, if you ask a single question (especially a general question) about need in the absence of a comparison array of multiple questions in a larger discussion then the context of the user's answer may land (like a dart thrown) in (or indeterminately *between*) any of these array regions. The size of the task of asking about and disambiguating these need-array regions is proportional to the difficulty of not knowing in what region a given dart landed, and further emphasises the need to do such upfront 'homework.'
+
 # List: Different Contexts for 'Need'
 1. What do you *do* and use *now*? (Current workflow)
 2. What do you *need* right *now*? (Right Now)
